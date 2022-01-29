@@ -6,8 +6,7 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/hoyabaptiste92)
 
 
-I'm a solution architect, principal engineer, and consultant specializing in .NET technologies. 
-I enjoy delivering fast, scalable, and secure web applications.
+I'm a solution architect / principal engineer / consultant specializing in .NET technologies. I enjoy delivering fast, scalable, and secure web applications.
 
 ## 🌱 I’m currently learning
 - [![Dapr](https://img.shields.io/badge/Code-Dapr-informational?style=flat&logo=dapr&logoColor=white&color=4AB197)](https://dapr.io/)
