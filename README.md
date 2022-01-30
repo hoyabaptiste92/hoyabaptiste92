@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hoyabaptiste/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/hoyabaptiste92)
 
-
+![github-banner](./github-banner.png)
 I'm a solution architect / principal engineer / consultant specializing in .NET technologies. I enjoy delivering fast, scalable, and secure web applications.
 
 ## 🌱 I’m currently learning
